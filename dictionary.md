@@ -57,6 +57,54 @@
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
 
+#### German Word: `arbaiten`
+- **English Meaning**: Work
+- **Hungarian Meaning**: Dolgozni
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `der Artz`
+- **English Meaning**: Doctor
+- **Hungarian Meaning**: Orvos
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `die Ärtzin`
+- **English Meaning**: Doctor (female)
+- **Hungarian Meaning**: Orvosnő
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `das Auto,-s`
+- **English Meaning**: Car
+- **Hungarian Meaning**: Autó
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Aber`
+- **English Meaning**: But
+- **Hungarian Meaning**: De
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Arbeitsplatz`
+- **English Meaning**: Workplace
+- **Hungarian Meaning**: Munkahely
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Arbeitszeit`
+- **English Meaning**: Working hours
+- **Hungarian Meaning**: Munkaidő
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 ---
 
 ### B
@@ -68,6 +116,19 @@
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
 
+#### German Word: `Beruf`
+- **English Meaning**: Profession
+- **Hungarian Meaning**: Foglalkozás/munka
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Bis`
+- **English Meaning**: Until
+- **Hungarian Meaning**: -Ig
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 ---
 
 ### C
@@ -85,6 +146,26 @@
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
 
+#### German Word: `Dort`
+- **English Meaning**: There
+- **Hungarian Meaning**: Ott
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Dienstag`
+- **English Meaning**: Tuesday
+- **Hungarian Meaning**: Kedd
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Donerstag`
+- **English Meaning**: Thursday
+- **Hungarian Meaning**: `Csütörtök`
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 
 ---
 
@@ -110,12 +191,58 @@
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
 
+#### German Word: `der Fahrer`
+- **English Meaning**: Driver
+- **Hungarian Meaning**: Sofőr
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+ 
+#### German Word: `Fahren`
+- **English Meaning**: Driving
+- **Hungarian Meaning**: Vezetni/utazni
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Frei`
+- **English Meaning**: Free
+- **Hungarian Meaning**: Szabad/Ingyen
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Freizeit`
+- **English Meaning**: Free time
+- **Hungarian Meaning**: Szabadidő
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Freitag`
+- **English Meaning**: Friday
+- **Hungarian Meaning**: Péntek
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 ---
 
 ### G
 
-...
+#### German Word: `Gestern`
+- **English Meaning**: Yesterday
+- **Hungarian Meaning**: Tegnap
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 
+#### German Word: `das geht nicht`
+- **English Meaning**: That doesn't work
+- **Hungarian Meaning**: Nem fog menni
+- 
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 ---
 
 ### H
@@ -125,6 +252,20 @@
 - **Hungarian Meaning**: Mobil szám
 - **Example Sentence**: Wie is deine Handynummer?
   - **Translation**: What is your cell phone number?
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Heute`
+- **English Meaning**: Today
+- **Hungarian Meaning**: Ma
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Hier`
+- **English Meaning**: Here
+- **Hungarian Meaning**: Itt
+- **Example Sentence**: -----
+  - **Translation**: -----
 - **Notes/Mnemonics**: -----
 
 ---
@@ -166,7 +307,12 @@
 
 ### L
 
-...
+#### German Word: `Leider`
+- **English Meaning**: Unfortunately
+- **Hungarian Meaning**: Sajnos
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 
 ---
 
@@ -175,6 +321,34 @@
 #### German Word: `das Mädchen`
 - **English Meaning**: Girl
 - **Hungarian Meaning**: Lány
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+ 
+#### German Word: `morgen`
+- **English Meaning**: Tomorrow
+- **Hungarian Meaning**: Holnap
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `der Mensch,-en`
+- **English Meaning**: Person
+- **Hungarian Meaning**: Ember
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Montag`
+- **English Meaning**: Monday
+- **Hungarian Meaning**: Hétfő
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Mittwoch`
+- **English Meaning**: Wednesday
+- **Hungarian Meaning**: Szerda
 - **Example Sentence**: -----
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
@@ -189,14 +363,37 @@
 
 ### O
 
-...
+#### German Word: `oft`
+- **English Meaning**: Often
+- **Hungarian Meaning**: Gyakran
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 
 ---
 
 ### P
 
-...
+#### German Word: `Produzieren`
+- **English Meaning**: To produce
+- **Hungarian Meaning**: Gyártani
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 
+#### German Word: `Platz haben für`
+- **English Meaning**: Have space for
+- **Hungarian Meaning**: Hely van
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `der Patient`
+- **English Meaning**: Patient
+- **Hungarian Meaning**: Páciens
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 ---
 
 ### Q
@@ -241,6 +438,55 @@
 - **Example Sentence**: -----
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
+
+#### German Word: `Selten`
+- **English Meaning**: Rarely
+- **Hungarian Meaning**: Ritkán
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `die Stunde,-n`
+- **English Meaning**: Hour
+- **Hungarian Meaning**: Óra
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `der Student`
+- **English Meaning**: Student
+- **Hungarian Meaning**: Diák (fiú)
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `die Studentin`
+- **English Meaning**: Student
+- **Hungarian Meaning**: Diák (lány)
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Studieren`
+- **English Meaning**: Student
+- **Hungarian Meaning**: Diák (lány)
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Samstag`
+- **English Meaning**: Saturday
+- **Hungarian Meaning**: Szombat
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Sonntag`
+- **English Meaning**: Sunday
+- **Hungarian Meaning**: Vasárnap
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 ---
 
 ### T
@@ -255,6 +501,20 @@
 #### German Word: `der Tanz`
 - **English Meaning**: Dance
 - **Hungarian Meaning**: Táncolni
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `der Techniker`
+- **English Meaning**: Technician
+- **Hungarian Meaning**: Technikus
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `der Tag`
+- **English Meaning**: The day
+- **Hungarian Meaning**: Nap
 - **Example Sentence**: -----
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
@@ -275,6 +535,26 @@
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
 
+#### German Word: `Vorgestern`
+- **English Meaning**: The day before yesterday
+- **Hungarian Meaning**: Tegnapelőtt
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Viel`
+- **English Meaning**: Much
+- **Hungarian Meaning**: Sok
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Von`
+- **English Meaning**: From
+- **Hungarian Meaning**: -Tól
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 ---
 
 ### W
@@ -318,6 +598,40 @@
     - **Translation**: Who is it?
 - **Notes/Mnemonics**: -----
 
+#### German Word: `pro Woche`
+- **English Meaning**: Per week
+- **Hungarian Meaning**: Hetente
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `die Woche`
+- **English Meaning**: Week
+- **Hungarian Meaning**: Hét
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `die Wochenende`
+- **English Meaning**: Weekend
+- **Hungarian Meaning**: Hétvége
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `die Wochentage`
+- **English Meaning**: Weekdays
+- **Hungarian Meaning**: Hétköznapok
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Warten`
+- **English Meaning**: Wait
+- **Hungarian Meaning**: Várni
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 ---
 
 ### X
@@ -357,7 +671,12 @@
 
 ### Ü
 
-...
+#### German Word: `Übermorgen`
+- **English Meaning**: The day after tomorrow
+- **Hungarian Meaning**: Holnapután
+- **Example Sentence**: Die tag, **übermorgen** ist Montag
+  - **Translation**: The day after tomorrow is Monday.
+- **Notes/Mnemonics**: ----
 
 ---
 
