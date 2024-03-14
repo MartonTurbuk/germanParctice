@@ -782,8 +782,8 @@
 
 ---
 
-### ß (Eszett or scharfes S)
-
+### ß
+(Eszett or scharfes S)
 ...
 
 ---
