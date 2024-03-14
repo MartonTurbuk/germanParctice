@@ -1,6 +1,6 @@
 # My Deutsch Learning Dictionary
 
-## Table of Contents
+## Words
 - [A](#A)
 - [B](#B)
 - [C](#C)
@@ -31,6 +31,11 @@
 - [Ö](#Ö)
 - [Ü](#Ü)
 - [ß](#ß)
+
+## General information
+- [Plural](#Plural)
+- [Panel Sentences](#Panel-Sentences)
+- [Numbers](#Numbers)
 
 ---
 
@@ -105,6 +110,13 @@
 - **Example Sentence**: ----
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
+
+#### German Word: `Architekt`
+- **English Meaning**: Architect
+- **Hungarian Meaning**: Építész
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 ---
 
 ### B
@@ -126,6 +138,20 @@
 #### German Word: `Bis`
 - **English Meaning**: Until
 - **Hungarian Meaning**: -Ig
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `bei`
+- **English Meaning**: At
+- **Hungarian Meaning**: -nál/-nél
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `der Boxer`
+- **English Meaning**: Boxer
+- **Hungarian Meaning**: Bokszoló
 - **Example Sentence**: ----
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
@@ -225,6 +251,13 @@
 - **Example Sentence**: ----
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
+
+#### German Word: `der Fussballspieler`
+- **English Meaning**: Football player
+- **Hungarian Meaning**: Focista
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
 ---
 
 ### G
@@ -272,7 +305,12 @@
 
 ### I
 
-...
+#### German Word: `der Ingenieur`
+- **English Meaning**: Engineer
+- **Hungarian Meaning**: Mérnök
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 
 ---
 
@@ -281,6 +319,13 @@
 #### German Word: `Joggen`
 - **English Meaning**: Running
 - **Hungarian Meaning**: Futni
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Journalist`
+- **English Meaning**: Journalist
+- **Hungarian Meaning**: Újságíró
 - **Example Sentence**: -----
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
@@ -357,7 +402,12 @@
 
 ### N
 
-...
+#### German Word: `Nachname`
+- **English Meaning**: Last Name
+- **Hungarian Meaning**: Vezetéknév
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 
 ---
 
@@ -391,6 +441,20 @@
 #### German Word: `der Patient`
 - **English Meaning**: Patient
 - **Hungarian Meaning**: Páciens
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `Postleitzahl`
+- **English Meaning**: Postal code
+- **Hungarian Meaning**: Irányítószám
+- **Example Sentence**: ----
+  - **Translation**: ----
+- **Notes/Mnemonics**: ----
+
+#### German Word: `der Professor`
+- **English Meaning**: Professor
+- **Hungarian Meaning**: Egyetemi professzor
 - **Example Sentence**: ----
   - **Translation**: ----
 - **Notes/Mnemonics**: ----
@@ -487,6 +551,20 @@
 - **Example Sentence**: -----
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
+
+#### German Word: `Strasse`
+- **English Meaning**: Street
+- **Hungarian Meaning**: Utca
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Stadt`
+- **English Meaning**: City
+- **Hungarian Meaning**: Város
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 ---
 
 ### T
@@ -555,6 +633,13 @@
 - **Example Sentence**: -----
   - **Translation**: -----
 - **Notes/Mnemonics**: -----
+
+#### German Word: `Vorname`
+- **English Meaning**: Surname
+- **Hungarian Meaning**: Keresztnév
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 ---
 
 ### W
@@ -566,14 +651,12 @@
     - **Translation**: Which languages do you speak?
 - **Notes/Mnemonics**: -----
 
-
 #### German Word: `Wie`
 - **English Meaning**: How
 - **Hungarian Meaning**: Hogy/Hogyan?
 - **Example Sentence**: **Wie** ist Ihre Handynummer?
     - **Translation**: What's your mobile number?
 - **Notes/Mnemonics**: -----
-
 
 #### German Word: `Woher`
 - **English Meaning**: From where
@@ -582,14 +665,33 @@
     - **Translation**: Where do you come from?
 - **Notes/Mnemonics**: -----
 
-
 #### German Word: `Wo`
 - **English Meaning**: Where
-- **Hungarian Meaning**: Honnan
+- **Hungarian Meaning**: Hol
 - **Example Sentence**: **Wo** wohnen Sie?
     - **Translation**: Where do you live?
 - **Notes/Mnemonics**: -----
 
+#### German Word: `Was`
+- **English Meaning**: What
+- **Hungarian Meaning**: Mi
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Wann`
+- **English Meaning**: When
+- **Hungarian Meaning**: Mikor
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
+
+#### German Word: `Warum`
+- **English Meaning**: Why
+- **Hungarian Meaning**: Miért
+- **Example Sentence**: -----
+  - **Translation**: -----
+- **Notes/Mnemonics**: -----
 
 #### German Word: `Wer`
 - **English Meaning**: Who
@@ -684,3 +786,74 @@
 
 ...
 
+---
+
+### Plural
+
+#### Plural sign forms:
+- Umlaut + -e = der Arzt - die Ärzte
+- -e = der Tag - die Tage
+- Umlaut + -er = das Buch - die Bücher
+- 0 = der Kilometer - die Kilometer
+- -n = die Stunde - die Stunden
+- -en = der Mensch - die Menschen
+- -s = das Auto - die Autos 
+---
+
+### Panel Sentences
+- **Sentence**: Was bist du von Beruf?
+  - **Translation**: What do you do for a living?
+- **Sentence**: Wo arbeitest du?
+  - **Translation**: Where do you work?
+- **Sentence**: Wann arbeitest du?
+  - **Translation**: When do you work?
+- **Sentence**: 
+  - **Translation**: 
+---
+
+### Numbers
+- Number from one to twenty:
+  - Zero = null
+  - One = eins
+  - Two = zwei
+  - Three = drei
+  - Four = vier
+  - Five = fünf
+  - Six = sechs
+  - Seven = sieben
+  - Eight = acht
+  - Nine = neun
+  - Ten = zehn
+  - Eleven = elf
+  - Twelve = zwölf
+  - Thirteen = dreizehn
+  - Fourteen = vierzehn
+  - Fifteen = fünfzehn
+  - Sixteen = sechzehn
+  - Seventeen = siebzehn
+  - Eighteen = achtzehn
+  - Nineteen = achtzehn
+  - Twenty = zwanzig
+
+- Numbers incrementing by 10:
+  - Tíz = zehn
+  - Húsz = zwanzig
+  - Harminc = dreizig
+  - Negyven = vierzig
+  - Ötven = fünfzig
+  - Hatvan = sechzig
+  - Hetven= siebzig
+  - Nyolcvan = achtzig
+  - Kilencven = neunzig
+  - Száz = hundert
+  - Ezer = tausend
+
+- Numbers over 20:
+  - 45 = fünfundvierzig
+  - 68 = achtundsechzig
+  - 82 = zweiundachtzig
+  - 23 = dreiundzwanzig
+  - 76 = sechsundsiebzig
+  - 123 = einhundertdreiundzwanzig
+  - 256 = zweihundert-sechsundfünfzig
+  - 1564 = eintausendfünfhundertvierundsechzig
