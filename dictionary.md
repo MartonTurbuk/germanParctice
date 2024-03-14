@@ -41,7 +41,7 @@
 
 ### A
 
-#### German Word: `Abend`
+#### German Word: `der Abend`
 - **English Meaning**: Evening
 - **Hungarian Meaning**: Este
 - **Example Sentence**: Wir essen um sieben Uhr am **Abend**.
@@ -54,19 +54,19 @@
 - **Example Sentence**: Ich komme aus Deutschland.
     - **Translation**: I come from Germany
 
-#### German Word: `Antworten`
+#### German Word: `antworten`
 - **English Meaning**: Answer
 - **Hungarian Meaning**: Válaszolni
 
-#### German Word: `arbaiten`
+#### German Word: `arbeiten`
 - **English Meaning**: Work
 - **Hungarian Meaning**: Dolgozni
 
-#### German Word: `der Artz`
+#### German Word: `der Artz/ die ärtze`
 - **English Meaning**: Doctor
 - **Hungarian Meaning**: Orvos
 
-#### German Word: `die Ärtzin`
+#### German Word: `die Ärtzin/ die ärtzinnen`
 - **English Meaning**: Doctor (female)
 - **Hungarian Meaning**: Orvosnő
 
@@ -74,19 +74,19 @@
 - **English Meaning**: Car
 - **Hungarian Meaning**: Autó
 
-#### German Word: `Aber`
+#### German Word: `aber`
 - **English Meaning**: But
 - **Hungarian Meaning**: De
 
-#### German Word: `Arbeitsplatz`
+#### German Word: `der Arbeitsplatz / ärbeitsplatze`
 - **English Meaning**: Workplace
 - **Hungarian Meaning**: Munkahely
 
-#### German Word: `Arbeitszeit`
+#### German Word: `die Arbeitszeit / en`
 - **English Meaning**: Working hours
 - **Hungarian Meaning**: Munkaidő
 
-#### German Word: `Architekt`
+#### German Word: `der Architekt / Architeckte`
 - **English Meaning**: Architect
 - **Hungarian Meaning**: Építész
 
@@ -94,15 +94,15 @@
 
 ### B
 
-#### German Word: `Begrüßen`
+#### German Word: `begrüßen`
 - **English Meaning**: Greet
 - **Hungarian Meaning**: Üdvözölni / köszönni
 
-#### German Word: `Beruf`
+#### German Word: `der Beruf / die Berufe`
 - **English Meaning**: Profession
 - **Hungarian Meaning**: Foglalkozás/munka
 
-#### German Word: `Bis`
+#### German Word: `bis`
 - **English Meaning**: Until
 - **Hungarian Meaning**: -Ig
 
@@ -124,19 +124,19 @@
 
 ### D
 
-#### German Word: `die Reise`
+#### German Word: `die Reise / die Reisen`
 - **English Meaning**: Travel
 - **Hungarian Meaning**: Utazás
 
-#### German Word: `Dort`
+#### German Word: `dort`
 - **English Meaning**: There
 - **Hungarian Meaning**: Ott
 
-#### German Word: `Dienstag`
+#### German Word: `der Dienstag`
 - **English Meaning**: Tuesday
 - **Hungarian Meaning**: Kedd
 
-#### German Word: `Donerstag`
+#### German Word: `der Donnerstag`
 - **English Meaning**: Thursday
 - **Hungarian Meaning**: `Csütörtök`
 
@@ -150,93 +150,69 @@
 
 ### F
 
-#### German Word: `Fragen`
+#### German Word: `fragen`
 - **English Meaning**: Asking (questions)
 - **Hungarian Meaning**: Kérdezni
 - **Example Sentence**: Warum **fragten** Sie?
     - **Translation**: Why did you ask?
 
-#### German Word: `Fotografieren`
+#### German Word: `fotografieren`
 - **English Meaning**: Taking photos
 - **Hungarian Meaning**: Fotózni
 
 #### German Word: `der Fahrer`
 - **English Meaning**: Driver
 - **Hungarian Meaning**: Sofőr
- 
-#### German Word: `Fahren`
+
+#### German Word: `fahren`
 - **English Meaning**: Driving
 - **Hungarian Meaning**: Vezetni/utazni
 
-#### German Word: `Frei`
+#### German Word: `frei`
 - **English Meaning**: Free
 - **Hungarian Meaning**: Szabad/Ingyen
 
-
-
-
-#### German Word: `Freizeit`
+#### German Word: `die Freizeit`
 - **English Meaning**: Free time
 - **Hungarian Meaning**: Szabadidő
 
-
-
-
-#### German Word: `Freitag`
+#### German Word: `der Freitag`
 - **English Meaning**: Friday
 - **Hungarian Meaning**: Péntek
-
-
-
 
 #### German Word: `der Fussballspieler`
 - **English Meaning**: Football player
 - **Hungarian Meaning**: Focista
 
-
-
 ---
 
 ### G
 
-#### German Word: `Gestern`
+#### German Word: `gestern`
 - **English Meaning**: Yesterday
 - **Hungarian Meaning**: Tegnap
--
--
--
 
 #### German Word: `das geht nicht`
 - **English Meaning**: That doesn't work
 - **Hungarian Meaning**: Nem fog menni
-- 
--
--
--
+ 
 ---
 
 ### H
 
-#### German Word: `die Handynummber`
+#### German Word: `die Handynummer`
 - **English Meaning**: Mobile number   
 - **Hungarian Meaning**: Mobil szám
 - **Example Sentence**: Wie is deine Handynummer?
   - **Translation**: What is your cell phone number?
--
 
-#### German Word: `Heute`
+#### German Word: `heute`
 - **English Meaning**: Today
 - **Hungarian Meaning**: Ma
--
--
--
 
-#### German Word: `Hier`
+#### German Word: `hier`
 - **English Meaning**: Here
 - **Hungarian Meaning**: Itt
--
--
--
 
 ---
 
@@ -245,56 +221,40 @@
 #### German Word: `der Ingenieur`
 - **English Meaning**: Engineer
 - **Hungarian Meaning**: Mérnök
--
--
--
 
 ---
 
 ### J
 
-#### German Word: `Joggen`
+#### German Word: `joggen`
 - **English Meaning**: Running
 - **Hungarian Meaning**: Futni
--
--
--
 
-#### German Word: `Journalist`
+#### German Word: `der Journalist`
 - **English Meaning**: Journalist
 - **Hungarian Meaning**: Újságíró
--
--
--
 
 ---
 
 ### K
 
-#### German Word: `Komme`
+#### German Word: `kommen`
 - **English Meaning**: To come
 - **Hungarian Meaning**: Jön
 - **Example Sentence**: Woher **kommst** du?
     - **Translation**: Where do you come from?
--
 
-#### German Word: `Kochen`
+#### German Word: `kochen`
 - **English Meaning**: Cook
 - **Hungarian Meaning**: Főzni
--
--
--
 
 ---
 
 ### L
 
-#### German Word: `Leider`
+#### German Word: `leider`
 - **English Meaning**: Unfortunately
 - **Hungarian Meaning**: Sajnos
--
--
--
 
 ---
 
@@ -303,48 +263,30 @@
 #### German Word: `das Mädchen`
 - **English Meaning**: Girl
 - **Hungarian Meaning**: Lány
--
--
--
- 
+
 #### German Word: `morgen`
 - **English Meaning**: Tomorrow
 - **Hungarian Meaning**: Holnap
--
--
--
 
 #### German Word: `der Mensch,-en`
 - **English Meaning**: Person
 - **Hungarian Meaning**: Ember
--
--
--
 
-#### German Word: `Montag`
+#### German Word: `der Montag`
 - **English Meaning**: Monday
 - **Hungarian Meaning**: Hétfő
--
--
--
 
-#### German Word: `Mittwoch`
+#### German Word: `der Mittwoch`
 - **English Meaning**: Wednesday
 - **Hungarian Meaning**: Szerda
--
--
--
 
 ---
 
 ### N
 
-#### German Word: `Nachname`
+#### German Word: `der Nachname`
 - **English Meaning**: Last Name
 - **Hungarian Meaning**: Vezetéknév
--
--
--
 
 ---
 
@@ -354,46 +296,29 @@
 - **English Meaning**: Often
 - **Hungarian Meaning**: Gyakran
 
-
-
-
 ---
 
 ### P
 
-#### German Word: `Produzieren`
+#### German Word: `produzieren`
 - **English Meaning**: To produce
 - **Hungarian Meaning**: Gyártani
-
-
-
 
 #### German Word: `Platz haben für`
 - **English Meaning**: Have space for
 - **Hungarian Meaning**: Hely van
 
-
-
-
-#### German Word: `der Patient`
+#### German Word: `der Patient, -en`
 - **English Meaning**: Patient
 - **Hungarian Meaning**: Páciens
 
-
-
-
-#### German Word: `Postleitzahl`
+#### German Word: `die Postleitzahl, -en`
 - **English Meaning**: Postal code
 - **Hungarian Meaning**: Irányítószám
-
-
-
 
 #### German Word: `der Professor`
 - **English Meaning**: Professor
 - **Hungarian Meaning**: Egyetemi professzor
-
-
 
 ---
 
@@ -411,97 +336,62 @@
 
 ### S
 
-#### German Word: `Spreche`
+#### German Word: `sprechen`
 - **English Meaning**: speak
 - **Hungarian Meaning**: beszél
 - **Example Sentence**: Welche Sprachen **sprechen** Sie?
     - **Translation**: Which languages do you speak?
--
 
-
-#### German Word: `die Sprache`
+#### German Word: `die Sprache, -en`
 - **English Meaning**: Language
 - **Hungarian Meaning**: Nyelv
 - **Example Sentence**: Welche **Sprachen** sprechen Sie?
   - **Translation**: Which languages do you speak?
--
 
-#### German Word: `Singen`
+#### German Word: `singen`
 - **English Meaning**: Sing
 - **Hungarian Meaning**: Énekelni
--
--
--
- 
-#### German Word: `Schwimmen`
+
+#### German Word: `schwimmen`
 - **English Meaning**: Swimming
 - **Hungarian Meaning**: Úszni
--
--
--
 
-#### German Word: `Selten`
+#### German Word: `selten`
 - **English Meaning**: Rarely
 - **Hungarian Meaning**: Ritkán
--
--
--
 
 #### German Word: `die Stunde,-n`
 - **English Meaning**: Hour
 - **Hungarian Meaning**: Óra
--
--
--
 
 #### German Word: `der Student`
 - **English Meaning**: Student
 - **Hungarian Meaning**: Diák (fiú)
--
--
--
 
 #### German Word: `die Studentin`
 - **English Meaning**: Student
 - **Hungarian Meaning**: Diák (lány)
--
--
--
 
-#### German Word: `Studieren`
+#### German Word: `studieren`
 - **English Meaning**: Student
 - **Hungarian Meaning**: Diák (lány)
--
--
--
 
-#### German Word: `Samstag`
+#### German Word: `der Samstag`
 - **English Meaning**: Saturday
 - **Hungarian Meaning**: Szombat
--
--
--
 
-#### German Word: `Sonntag`
+#### German Word: `der Sonntag`
 - **English Meaning**: Sunday
 - **Hungarian Meaning**: Vasárnap
--
--
--
 
-#### German Word: `Strasse`
+#### German Word: `die Strasse, -en`
 - **English Meaning**: Street
 - **Hungarian Meaning**: Utca
--
--
--
 
-#### German Word: `Stadt`
+#### German Word: `die Stadt / die Städte `
 - **English Meaning**: City
 - **Hungarian Meaning**: Város
--
--
--
+
 ---
 
 ### T
@@ -511,28 +401,19 @@
 - **Hungarian Meaning**: Telefonszám
 - **Example Sentence**: Wie ist deine Telefonnummer?
   - **Translation**: What is your telephone number?
--
 
 #### German Word: `der Tanz`
 - **English Meaning**: Dance
 - **Hungarian Meaning**: Táncolni
--
--
--
 
 #### German Word: `der Techniker`
 - **English Meaning**: Technician
 - **Hungarian Meaning**: Technikus
--
--
--
 
 #### German Word: `der Tag`
 - **English Meaning**: The day
 - **Hungarian Meaning**: Nap
--
--
--
+
 ---
 
 ### U
@@ -543,40 +424,26 @@
 
 ### V
 
-#### German Word: `Verabschieden`
+#### German Word: `verabschieden`
 - **English Meaning**: Say goodbye
 - **Hungarian Meaning**: Elköszönni / búcsúzni
--
--
--
 
-#### German Word: `Vorgestern`
+#### German Word: `vorgestern`
 - **English Meaning**: The day before yesterday
 - **Hungarian Meaning**: Tegnapelőtt
--
--
--
 
-#### German Word: `Viel`
+#### German Word: `viel`
 - **English Meaning**: Much
 - **Hungarian Meaning**: Sok
--
--
--
 
-#### German Word: `Von`
+#### German Word: `von`
 - **English Meaning**: From
 - **Hungarian Meaning**: -Tól
--
--
--
 
-#### German Word: `Vorname`
+#### German Word: `der Vorname`
 - **English Meaning**: Surname
 - **Hungarian Meaning**: Keresztnév
--
--
--
+
 ---
 
 ### W
@@ -586,91 +453,63 @@
 - **Hungarian Meaning**: Melyik
 - **Example Sentence**: **Welche** Sprachen sprechen Sie?
     - **Translation**: Which languages do you speak?
--
 
 #### German Word: `Wie`
 - **English Meaning**: How
 - **Hungarian Meaning**: Hogy/Hogyan?
 - **Example Sentence**: **Wie** ist Ihre Handynummer?
     - **Translation**: What's your mobile number?
--
 
 #### German Word: `Woher`
 - **English Meaning**: From where
 - **Hungarian Meaning**: Honnan
 - **Example Sentence**: **Woher** kommst du?
     - **Translation**: Where do you come from?
--
 
 #### German Word: `Wo`
 - **English Meaning**: Where
 - **Hungarian Meaning**: Hol
 - **Example Sentence**: **Wo** wohnen Sie?
     - **Translation**: Where do you live?
--
 
 #### German Word: `Was`
 - **English Meaning**: What
 - **Hungarian Meaning**: Mi
--
--
--
 
 #### German Word: `Wann`
 - **English Meaning**: When
 - **Hungarian Meaning**: Mikor
--
--
--
 
 #### German Word: `Warum`
 - **English Meaning**: Why
 - **Hungarian Meaning**: Miért
--
--
--
 
 #### German Word: `Wer`
 - **English Meaning**: Who
 - **Hungarian Meaning**: ----
 - **Example Sentence**: **Wer** ist es?
     - **Translation**: Who is it?
--
 
 #### German Word: `pro Woche`
 - **English Meaning**: Per week
 - **Hungarian Meaning**: Hetente
--
--
--
 
 #### German Word: `die Woche`
 - **English Meaning**: Week
 - **Hungarian Meaning**: Hét
--
--
--
 
-#### German Word: `die Wochenende`
+#### German Word: `das Wochenende`
 - **English Meaning**: Weekend
 - **Hungarian Meaning**: Hétvége
--
--
--
 
 #### German Word: `die Wochentage`
 - **English Meaning**: Weekdays
 - **Hungarian Meaning**: Hétköznapok
--
--
--
 
-#### German Word: `Warten`
+#### German Word: `warten`
 - **English Meaning**: Wait
 - **Hungarian Meaning**: Várni
--
--
--
+
 ---
 
 ### X
@@ -693,7 +532,7 @@
 
 ### Ä
 
-#### German Word: `Äpfel`
+#### German Word: `der Apfel / die äpfel`
 - **English Meaning**: Apples
 - **Hungarian Meaning**: Almák
 - **Example Sentence**: Ich esse gerne **Äpfel**.
@@ -710,12 +549,11 @@
 
 ### Ü
 
-#### German Word: `Übermorgen`
+#### German Word: `übermorgen`
 - **English Meaning**: The day after tomorrow
 - **Hungarian Meaning**: Holnapután
 - **Example Sentence**: Die tag, **übermorgen** ist Montag
   - **Translation**: The day after tomorrow is Monday.
-
 
 ---
 
