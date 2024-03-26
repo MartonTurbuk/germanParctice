@@ -36,6 +36,7 @@
 - [Plural](#Plural)
 - [Panel Sentences](#Panel-Sentences)
 - [Numbers](#Numbers)
+- [Tables](#Tables)
 
 ---
 
@@ -90,6 +91,10 @@
 - **English Meaning**: Architect
 - **Hungarian Meaning**: Építész
 
+#### German Word: `angeln`
+- **English Meaning**: Fishing
+- **Hungarian Meaning**: Hogászni
+
 ---
 
 ### B
@@ -113,6 +118,14 @@
 #### German Word: `der Boxer`
 - **English Meaning**: Boxer
 - **Hungarian Meaning**: Bokszoló
+
+#### German Word: `das Buch, Bücher`
+- **English Meaning**: Book, books
+- **Hungarian Meaning**: Könyv, könyvek
+
+#### German Word: `der  Beruf,  -e`
+- **English Meaning**: Job
+- **Hungarian Meaning**: Munka (foglalkozás)
 
 ---
 
@@ -184,6 +197,22 @@
 - **English Meaning**: Football player
 - **Hungarian Meaning**: Focista
 
+#### German Word: `der Formular, -e`
+- **English Meaning**: Form
+- **Hungarian Meaning**: Nyomtatvány
+
+#### German Word: `Fahrrad fahren`
+- **English Meaning**: Ride a bike
+- **Hungarian Meaning**: Biciklizni
+
+#### German Word: `der Film`
+- **English Meaning**: Film
+- **Hungarian Meaning**: Film
+
+#### German Word: `die Firma, Firmen`
+- **English Meaning**: Company
+- **Hungarian Meaning**: Cég
+
 ---
 
 ### G
@@ -195,6 +224,14 @@
 #### German Word: `das geht nicht`
 - **English Meaning**: That doesn't work
 - **Hungarian Meaning**: Nem fog menni
+
+#### German Word: `der Geburtsort, -e`
+- **English Meaning**: Birthplace
+- **Hungarian Meaning**: Születési hely
+
+#### German Word: `der Geburtstag, -e`
+- **English Meaning**: Birthplace
+- **Hungarian Meaning**: Születésnap
  
 ---
 
@@ -221,6 +258,10 @@
 #### German Word: `der Ingenieur`
 - **English Meaning**: Engineer
 - **Hungarian Meaning**: Mérnök
+ 
+#### German Word: `interessieren für`
+- **English Meaning**: Interested in
+- **Hungarian Meaning**: Érdeklődni
 
 ---
 
@@ -233,6 +274,10 @@
 #### German Word: `der Journalist`
 - **English Meaning**: Journalist
 - **Hungarian Meaning**: Újságíró
+
+#### German Word: `der Jahreszeit, -en`
+- **English Meaning**: Season
+- **Hungarian Meaning**: Évszak 
 
 ---
 
@@ -248,6 +293,18 @@
 - **English Meaning**: Cook
 - **Hungarian Meaning**: Főzni
 
+#### German Word: `der Kalendar, -`
+- **English Meaning**: Calendar
+- **Hungarian Meaning**: Naptár
+
+#### German Word: `der Koch, Köche`
+- **English Meaning**: Chef
+- **Hungarian Meaning**: Szakácsok
+
+#### German Word: `die Köchin, -nen`
+- **English Meaning**: Chef (female)
+- **Hungarian Meaning**: Szakácsok (nők)
+
 ---
 
 ### L
@@ -255,6 +312,14 @@
 #### German Word: `leider`
 - **English Meaning**: Unfortunately
 - **Hungarian Meaning**: Sajnos
+
+#### German Word: `der Leute (Plural)`
+- **English Meaning**: People
+- **Hungarian Meaning**: Emberek
+
+#### German Word: `lesen`
+- **English Meaning**: Read
+- **Hungarian Meaning**: Olvasni
 
 ---
 
@@ -392,6 +457,22 @@
 - **English Meaning**: City
 - **Hungarian Meaning**: Város
 
+#### German Word: `die  Schule, -n`
+- **English Meaning**: School
+- **Hungarian Meaning**: Iskola
+
+#### German Word: `schon`
+- **English Meaning**: Already
+- **Hungarian Meaning**: Már
+
+#### German Word: `spielen`
+- **English Meaning**: Play
+- **Hungarian Meaning**: Játszani
+
+#### German Word: `seh gern`
+- **English Meaning**: Very much
+- **Hungarian Meaning**: Nagyon
+
 ---
 
 ### T
@@ -413,6 +494,10 @@
 #### German Word: `der Tag`
 - **English Meaning**: The day
 - **Hungarian Meaning**: Nap
+
+#### German Word: `der Termin, -e`
+- **English Meaning**: Appointment
+- **Hungarian Meaning**: Időpont
 
 ---
 
@@ -582,8 +667,15 @@
   - **Translation**: Where do you work?
 - **Sentence**: Wann arbeitest du?
   - **Translation**: When do you work?
-- **Sentence**: 
-  - **Translation**: 
+- **Sentence**: Ich gehe ins Schwimmbad 
+  - **Translation**: I'm going to the swimming pool.
+- **Sentence**: Ich schwimme im Schwimmbad
+  - **Translation**: I swim in the swimming pool.
+- **Sentence**: Er liest ein Buch
+  - **Translation**: He is reading a book
+- **Sentence**: Du spielst Fussball.
+  - **Translation**: You play soccer.
+
 ---
 
 ### Numbers
@@ -632,3 +724,21 @@
   - 123 = einhundertdreiundzwanzig
   - 256 = zweihundert-sechsundfünfzig
   - 1564 = eintausendfünfhundertvierundsechzig
+
+### Tables
+|         | der     | die       | das     | die (tsz.)  |
+|---------|---------|-----------|---------|-------------|
+| ich     | mein    | meine     | mein    | meine       |
+| du      | dein    | deine     | dein    | deine       |
+| er      | sein    | seine     | sein    | seine       |
+| sie     | ihr     | ihre      | ihr     | ihre        |
+| es      | sein    | seine     | sein    | seine       |
+| wir     | unser   | unsere    | unser   | unsere      |
+| ihr     | euer    | eure      | euer    | eure        |
+| sie/Sie | ihr/Ihr | ihre/Ihre | ihr/Ihr | ihre/Ihre   |
+
+
+|                               | der  | die   | das  | die   |
+|-------------------------------|------|-------|------|-------|
+| egy vmi (határozatlan névelő) | ein  | eine  | ein  | -     |
+| tagadás                       | kein | keine | kein | keine |
