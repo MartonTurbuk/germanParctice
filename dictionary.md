@@ -95,6 +95,22 @@
 - **English Meaning**: Fishing
 - **Hungarian Meaning**: Hogászni
 
+#### German Word: `angeln`
+- **English Meaning**: Fishing
+- **Hungarian Meaning**: Hogászni
+
+#### German Word: `der Arbeitsplatz ,- Arbeitsplätze`
+- **English Meaning**: Workplace
+- **Hungarian Meaning**: Hogászni
+
+#### German Word: `die Arbeitszeit ,- Arbeitzeiten`
+- **English Meaning**: Workplace 
+- **Hungarian Meaning**: Hogászni
+
+#### German Word: `alles`
+- **English Meaning**: Any, all, every
+- **Hungarian Meaning**: Minden
+
 ---
 
 ### B
@@ -126,6 +142,22 @@
 #### German Word: `der  Beruf,  -e`
 - **English Meaning**: Job
 - **Hungarian Meaning**: Munka (foglalkozás)
+
+#### German Word: `das Büro, -s`
+- **English Meaning**: Office
+- **Hungarian Meaning**: Iroda
+
+#### German Word: `besuchen`
+- **English Meaning**: Visiting
+- **Hungarian Meaning**: Látogatni
+
+#### German Word: `der Besucher`
+- **English Meaning**: Visitor, guest, patron, company
+- **Hungarian Meaning**: Látogató
+
+#### German Word: `breit`
+- **English Meaning**: Wide, broad, large
+- **Hungarian Meaning**: Széles
 
 ---
 
@@ -185,7 +217,7 @@
 - **English Meaning**: Free
 - **Hungarian Meaning**: Szabad/Ingyen
 
-#### German Word: `die Freizeit`
+#### German Word: `die Freizeit ,- Freizeiten`
 - **English Meaning**: Free time
 - **Hungarian Meaning**: Szabadidő
 
@@ -213,6 +245,14 @@
 - **English Meaning**: Company
 - **Hungarian Meaning**: Cég
 
+#### German Word: `der Frühling ,- Frühlinge`
+- **English Meaning**: Spring
+- **Hungarian Meaning**: Tavasz
+
+#### German Word: `fast`
+- **English Meaning**: Almost, nearly, all but
+- **Hungarian Meaning**: Majdnem
+
 ---
 
 ### G
@@ -232,6 +272,14 @@
 #### German Word: `der Geburtstag, -e`
 - **English Meaning**: Birthplace
 - **Hungarian Meaning**: Születésnap
+
+#### German Word: `ganz`
+- **English Meaning**: full, whole, entire
+- **Hungarian Meaning**: Egész
+
+#### German Word: `das Geschäft ,- Geschäfte`
+- **English Meaning**: Business, store, shop
+- **Hungarian Meaning**: Bolt
  
 ---
 
@@ -250,6 +298,18 @@
 #### German Word: `hier`
 - **English Meaning**: Here
 - **Hungarian Meaning**: Itt
+
+#### German Word: `der Herbst ,- Herbste`
+- **English Meaning**: Autumn
+- **Hungarian Meaning**: Ősz
+
+#### German Word: `das Hoch ,- Hochs`
+- **English Meaning**: High, up
+- **Hungarian Meaning**: Magas
+
+#### German Word: `das Haus ,- Häuser`
+- **English Meaning**: Home, house
+- **Hungarian Meaning**: Ház
 
 ---
 
@@ -279,6 +339,10 @@
 - **English Meaning**: Season
 - **Hungarian Meaning**: Évszak 
 
+#### German Word: `jährlich`
+- **English Meaning**: Per year
+- **Hungarian Meaning**: Évente
+
 ---
 
 ### K
@@ -304,6 +368,10 @@
 #### German Word: `die Köchin, -nen`
 - **English Meaning**: Chef (female)
 - **Hungarian Meaning**: Szakácsok (nők)
+
+#### German Word: `kaufen`
+- **English Meaning**: buy, purchase, shop
+- **Hungarian Meaning**: Vásárolni
 
 ---
 
@@ -345,6 +413,34 @@
 - **English Meaning**: Wednesday
 - **Hungarian Meaning**: Szerda
 
+#### German Word: `das macht`
+- **English Meaning**: It costs something
+- **Hungarian Meaning**: Valamibe kerül. Pl euró
+
+#### German Word: `monatlich`
+- **English Meaning**: Per month
+- **Hungarian Meaning**: Havonta
+
+#### German Word: `machen`
+- **English Meaning**: Create, make, do, made
+- **Hungarian Meaning**: Csinálni
+
+#### German Word: `der Markt ,- Märkte`
+- **English Meaning**: Market, market square, marketplace
+- **Hungarian Meaning**: Piac
+
+#### German Word: `mehr als`
+- **English Meaning**: More than
+- **Hungarian Meaning**: Több mint
+
+#### German Word: `die Mitte ,- Mitten`
+- **English Meaning**: Centre, middle
+- **Hungarian Meaning**: Közép
+
+#### German Word: `in der Mitte`
+- **English Meaning**: In the middle
+- **Hungarian Meaning**: Középen
+
 ---
 
 ### N
@@ -352,6 +448,14 @@
 #### German Word: `der Nachname`
 - **English Meaning**: Last Name
 - **Hungarian Meaning**: Vezetéknév
+
+#### German Word: `nur`
+- **English Meaning**: Only, just
+- **Hungarian Meaning**: Csak
+
+#### German Word: `niedrig ,- niedriger`
+- **English Meaning**: Low
+- **Hungarian Meaning**: Alcsony
 
 ---
 
@@ -473,6 +577,25 @@
 - **English Meaning**: Very much
 - **Hungarian Meaning**: Nagyon
 
+#### German Word: `suchen`
+- **English Meaning**: Searching
+- **Hungarian Meaning**: Keresni
+
+### German Word: `das Stadttheater`
+- **English Meaning**: City Theater
+- **Hungarian Meaning**: Városi színház
+
+### German Word: `sich und andere vorstellen`
+- **English Meaning**: Introduce yourself and others
+- **Hungarian Meaning**: Bemutatni, bemutatkozni
+
+### German Word: `der Sommer`
+- **English Meaning**: Summer
+- **Hungarian Meaning**: Nyár
+
+### German Word: `das Schiff ,- Schiffe`
+- **English Meaning**: Ship, boat
+- **Hungarian Meaning**: Hajó
 ---
 
 ### T
@@ -498,6 +621,14 @@
 #### German Word: `der Termin, -e`
 - **English Meaning**: Appointment
 - **Hungarian Meaning**: Időpont
+
+#### German Word: `täglich`
+- **English Meaning**: Per day
+- **Hungarian Meaning**: Naponta
+
+#### German Word: `der Turm ,- Türme`
+- **English Meaning**: Tower, castle
+- **Hungarian Meaning**: Torony
 
 ---
 
@@ -595,6 +726,18 @@
 - **English Meaning**: Wait
 - **Hungarian Meaning**: Várni
 
+#### German Word: `wöchentlich`
+- **English Meaning**: Per week
+- **Hungarian Meaning**: Hetente
+
+#### German Word: `der Winter ,- Winter`
+- **English Meaning**: Winter
+- **Hungarian Meaning**: Tél
+
+#### German Word: `die Welt ,- Welten`
+- **English Meaning**: World, Earth
+- **Hungarian Meaning**: Világ
+
 ---
 
 ### X
@@ -611,7 +754,17 @@
 
 ### Z
 
-...
+#### German Word: `zu (zum)`
+- **English Meaning**: To
+- **Hungarian Meaning**: -hoz/-hez/-höz
+
+#### German Word: `die Zeit ,- Zeiten`
+- **English Meaning**: Time
+- **Hungarian Meaning**: Idő
+
+#### German Word: `das Ziel ,- Ziele`
+- **English Meaning**: Aim, goal, purpose, destination
+- **Hungarian Meaning**: Cél
 
 ---
 
@@ -639,6 +792,10 @@
 - **Hungarian Meaning**: Holnapután
 - **Example Sentence**: Die tag, **übermorgen** ist Montag
   - **Translation**: The day after tomorrow is Monday.
+
+#### German Word: `über sich und andere sprechen`
+- **English Meaning**: To talk about yourself and others
+- **Hungarian Meaning**: Magaról, másokról beszélni
 
 ---
 
@@ -675,6 +832,8 @@
   - **Translation**: He is reading a book
 - **Sentence**: Du spielst Fussball.
   - **Translation**: You play soccer.
+- **Sentence**: Tut mir leid.
+  - **Translation**: I am sorry.
 
 ---
 
