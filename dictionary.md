@@ -159,6 +159,25 @@
 - **English Meaning**: Wide, broad, large
 - **Hungarian Meaning**: Széles
 
+#### German Word: `das Brot, die Brote`
+- **English Meaning**: Bread
+- **Hungarian Meaning**: Kenyér
+
+#### German Word: `die Birne, die Birnen`
+- **English Meaning**: Pear
+- **Hungarian Meaning**: Körte
+
+#### German Word: `die Banane, die Bananen`
+- **English Meaning**: Banane
+- **Hungarian Meaning**: Banán
+
+#### German Word: `der Beginn`
+- **English Meaning**: Start
+- **Hungarian Meaning**: Start
+
+#### German Word: `das Beginnen`
+- **English Meaning**: Beginning
+- **Hungarian Meaning**: Kezdés
 ---
 
 ### C
@@ -168,10 +187,6 @@
 ---
 
 ### D
-
-#### German Word: `die Reise / die Reisen`
-- **English Meaning**: Travel
-- **Hungarian Meaning**: Utazás
 
 #### German Word: `dort`
 - **English Meaning**: There
@@ -183,13 +198,27 @@
 
 #### German Word: `der Donnerstag`
 - **English Meaning**: Thursday
-- **Hungarian Meaning**: `Csütörtök`
+- **Hungarian Meaning**: Csütörtök
+
+#### German Word: `Danach`
+- **English Meaning**: After, after it
+- **Hungarian Meaning**: Azután
+
+#### German Word: `Dann`
+- **English Meaning**: Then
+- **Hungarian Meaning**: Akkor
 
 ---
 
 ### E
 
-...
+#### German Word: `einladen`
+- **English Meaning**: extend an invitation, invite to
+- **Hungarian Meaning**: Meghívni
+
+#### German Word: `die Eisenbahn, die Eisenbahnen`
+- **English Meaning**: Railway
+- **Hungarian Meaning**: Vasúti sín
 
 ---
 
@@ -253,6 +282,14 @@
 - **English Meaning**: Almost, nearly, all but
 - **Hungarian Meaning**: Majdnem
 
+#### German Word: `der Fisch, die Fische`
+- **English Meaning**: Fish
+- **Hungarian Meaning**: Hal
+
+#### German Word: `das Fleisch, die Fleische`
+- **English Meaning**: Meat
+- **Hungarian Meaning**: Hús
+
 ---
 
 ### G
@@ -310,6 +347,10 @@
 #### German Word: `das Haus ,- Häuser`
 - **English Meaning**: Home, house
 - **Hungarian Meaning**: Ház
+
+#### German Word: `das Hähnchen, die Hähnchens`
+- **English Meaning**: Chicken
+- **Hungarian Meaning**: Csirke
 
 ---
 
@@ -372,6 +413,22 @@
 #### German Word: `kaufen`
 - **English Meaning**: buy, purchase, shop
 - **Hungarian Meaning**: Vásárolni
+
+#### German Word: `der Kuchen, die Kuchen`
+- **English Meaning**: Cake
+- **Hungarian Meaning**: Sütemény
+
+#### German Word: `die Kartoffel, die Kartoffeln`
+- **English Meaning**: Potato
+- **Hungarian Meaning**: Krumpli
+
+#### German Word: `der Käse, die Käse`
+- **English Meaning**: Cheese
+- **Hungarian Meaning**: Sajt
+
+#### German Word: `der Keks, die Kekse`
+- **English Meaning**: Cookie
+- **Hungarian Meaning**: Süti
 
 ---
 
@@ -441,6 +498,18 @@
 - **English Meaning**: In the middle
 - **Hungarian Meaning**: Középen
 
+#### German Word: `möchte`
+- **English Meaning**: wish, want
+- **Hungarian Meaning**: Szeretnék
+
+#### German Word: `die Marmelade, die Marmeladen`
+- **English Meaning**: Jam
+- **Hungarian Meaning**: Lekvár
+
+#### German Word: `das Müsli, die Müslis`
+- **English Meaning**: Cereal
+- **Hungarian Meaning**: Müzli
+
 ---
 
 ### N
@@ -464,6 +533,14 @@
 #### German Word: `oft`
 - **English Meaning**: Often
 - **Hungarian Meaning**: Gyakran
+
+#### German Word: `die Olive, die Oliven`
+- **English Meaning**: Olive
+- **Hungarian Meaning**: Olajbogyó
+
+#### German Word: `das Orchester`
+- **English Meaning**: Orchestra
+- **Hungarian Meaning**: Zenekar
 
 ---
 
@@ -489,6 +566,14 @@
 - **English Meaning**: Professor
 - **Hungarian Meaning**: Egyetemi professzor
 
+#### German Word: `der Palast, die Paläster`
+- **English Meaning**: Palace
+- **Hungarian Meaning**: Palota
+
+#### German Word: `die Party, die Partys`
+- **English Meaning**: Party
+- **Hungarian Meaning**: Parti
+
 ---
 
 ### Q
@@ -499,7 +584,13 @@
 
 ### R
 
-...
+#### German Word: `die Reise / die Reisen`
+- **English Meaning**: Travel
+- **Hungarian Meaning**: Utazás
+- 
+#### German Word: `das Reis, die Reise`
+- **English Meaning**: Rice
+- **Hungarian Meaning**: Rizs
 
 ---
 
@@ -596,6 +687,30 @@
 ### German Word: `das Schiff ,- Schiffe`
 - **English Meaning**: Ship, boat
 - **Hungarian Meaning**: Hajó
+
+### German Word: `der Saft, die Säft`
+- **English Meaning**: Juice
+- **Hungarian Meaning**: Gyümölcslé
+
+### German Word: `der Schinken, die Schinken`
+- **English Meaning**: Ham
+- **Hungarian Meaning**: Sonka
+
+### German Word: `die Sahne`
+- **English Meaning**: cream, whipped cream
+- **Hungarian Meaning**: Krém
+
+### German Word: `die Schokolade, die Schokoladen`
+- **English Meaning**: Chocolate
+- **Hungarian Meaning**: Csoki
+
+### German Word: `das Sinfonieorchester`
+- **English Meaning**: Symphony orchestra
+- **Hungarian Meaning**: Szimfonikus zenekar
+
+### German Word: `der Star, die Stars`
+- **English Meaning**: Star, celebrity
+- **Hungarian Meaning**: Sztár, híresség
 ---
 
 ### T
@@ -630,6 +745,14 @@
 - **English Meaning**: Tower, castle
 - **Hungarian Meaning**: Torony
 
+#### German Word: `der Tee, die Tee`
+- **English Meaning**: Tower, castle
+- **Hungarian Meaning**: Torony
+
+#### German Word: `Täglich`
+- **English Meaning**: Daily
+- **Hungarian Meaning**: Naponta
+
 ---
 
 ### U
@@ -659,6 +782,10 @@
 #### German Word: `der Vorname`
 - **English Meaning**: Surname
 - **Hungarian Meaning**: Keresztnév
+
+#### German Word: `vielleicht`
+- **English Meaning**: Perhaps, maybe
+- **Hungarian Meaning**: Talán
 
 ---
 
@@ -738,6 +865,14 @@
 - **English Meaning**: World, Earth
 - **Hungarian Meaning**: Világ
 
+#### German Word: `das Wasser, die Wässer`
+- **English Meaning**: Water
+- **Hungarian Meaning**: Víz
+
+#### German Word: `die Wurst, die Würste`
+- **English Meaning**: Sausage
+- **Hungarian Meaning**: Kolbász
+
 ---
 
 ### X
@@ -766,6 +901,10 @@
 - **English Meaning**: Aim, goal, purpose, destination
 - **Hungarian Meaning**: Cél
 
+#### German Word: `die Zwiebel, die Zwiebeln`
+- **English Meaning**: Onion
+- **Hungarian Meaning**: Hagyma
+
 ---
 
 ### Ä
@@ -781,7 +920,9 @@
 
 ### Ö
 
-...
+#### German Word: `Öffnen`
+- **English Meaning**: Open
+- **Hungarian Meaning**: Nyitva
 
 ---
 
