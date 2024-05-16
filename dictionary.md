@@ -178,6 +178,10 @@
 #### German Word: `das Beginnen`
 - **English Meaning**: Beginning
 - **Hungarian Meaning**: Kezdés
+
+#### German Word: `der Becher, die Becher`
+- **English Meaning**: Cup/mug
+- **Hungarian Meaning**: Bögre
 ---
 
 ### C
@@ -290,6 +294,10 @@
 - **English Meaning**: Meat
 - **Hungarian Meaning**: Hús
 
+#### German Word: `die Flasche, die Flaschen`
+- **English Meaning**: Bottle, flask
+- **Hungarian Meaning**: Flaska
+
 ---
 
 ### G
@@ -317,6 +325,10 @@
 #### German Word: `das Geschäft ,- Geschäfte`
 - **English Meaning**: Business, store, shop
 - **Hungarian Meaning**: Bolt
+
+#### German Word: `das Glas, die Gläser`
+- **English Meaning**: Glass
+- **Hungarian Meaning**: Pohár
  
 ---
 
@@ -574,6 +586,10 @@
 - **English Meaning**: Party
 - **Hungarian Meaning**: Parti
 
+#### German Word: `die Packung, die Packungen`
+- **English Meaning**: Package
+- **Hungarian Meaning**: Csomagolás
+
 ---
 
 ### Q
@@ -753,6 +769,10 @@
 - **English Meaning**: Daily
 - **Hungarian Meaning**: Naponta
 
+#### German Word: `die Tasse, die Tassen`
+- **English Meaning**: Cup
+- **Hungarian Meaning**: Csésze
+
 ---
 
 ### U
@@ -786,6 +806,10 @@
 #### German Word: `vielleicht`
 - **English Meaning**: Perhaps, maybe
 - **Hungarian Meaning**: Talán
+
+#### German Word: `die Verpackung, die Verpackungen`
+- **English Meaning**: Wrapping
+- **Hungarian Meaning**: Csomagolás
 
 ---
 
@@ -975,6 +999,12 @@
   - **Translation**: You play soccer.
 - **Sentence**: Tut mir leid.
   - **Translation**: I am sorry.
+- **Sentence**: Herzlichen Dank.
+  - **Translation**: Thank you very much.
+- **Sentence**: Vielen Dank
+  - **Translation**: Thank you.
+- **Sentence**: Wie viele...?
+  - **Translation**: How much / How many?
 
 ---
 
@@ -1042,3 +1072,38 @@
 |-------------------------------|------|-------|------|-------|
 | egy vmi (határozatlan névelő) | ein  | eine  | ein  | -     |
 | tagadás                       | kein | keine | kein | keine |
+
+
+|           | Hímnem | Nőnem | Semlegesnem | Többesszám |
+|-----------|--------|-------|-------------|------------|
+| Alanyeset | der    | die   | das         | die        |
+| Tárgyeset | den    | die   | das         | die        |
+
+
+|           | Hímnem | Nőnem | Semlegesnem | Többesszám |
+|-----------|--------|-------|-------------|------------|
+| Alanyeset | ein    | eine  | ein         | -          |
+| Tárgyeset | einen  | eine  | ein         | -          |
+
+
+|           | Hímnem | Nőnem | Semlegesnem | Többesszám |
+|-----------|--------|-------|-------------|------------|
+| Alanyeset | kein   | keine | kein        | keine      |
+| Tárgyeset | keinen | keine | kein        | keine      |
+
+
+| essen                  | Hímnem                 | Nőnem                 | Semlegesnem             | Többesszám            |
+|------------------------|------------------------|-----------------------|-------------------------|-----------------------|
+| der, die, das,die      | Ich esse den Salat.    | Ich esse die Suppe.   | Ich esse das Brötchen.  | Ich esse die Äpfel.   |
+| ein,eine,ein           | Ich esse einen Salat.  | Ich esse eine Suppe.  | Ich esse ein Brötchen.  | -                     |
+| kein,keine,kein, keine | Ich esse keinen Salat. | Ich esse keine Suppe. | Ich esse kein Brötchen. | Ich esse keine Äpfel. |
+
+
+|           | mögen(want) | möchten(like) | essen(eat) |
+|-----------|-------------|---------------|------------|
+| ich       | mag         | möchte        | esse       |
+| du        | magst       | möchtest      | isst       |
+| er/es/sie | mag         | möchte        | isst       |
+| wir       | mögen       | möchten       | essen      |
+| ihr       | mögt        | möchtet       | esst       |
+| sie/Sie   | mögen       | möchten       | essen      |
